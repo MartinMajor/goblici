@@ -1,0 +1,6 @@
+[package]
+name = "goblici"
+version = "0.1.0"
+authors = ["Martin Major <martin.major@email.cz>"]
+
+[dependencies]
